@@ -3,10 +3,10 @@
   "created_at": "2025-07-08T14:25:26.775Z",
   "created_by": "lwjameson",
   "title": "Test Auto-Gen Homepage",
-  "updated_at": "2025-07-08T14:25:26.775Z",
+  "updated_at": "2025-07-08T19:52:31.249Z",
   "updated_by": "lwjameson",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }

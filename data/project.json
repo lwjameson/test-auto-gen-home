@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"lwjameson","avatar_url":"https://avatars.githubusercontent.com/u/17829439?v=4","admin":true}],"project":{"github_org":"lwjameson","is_private":false,"title":"Test Auto-Gen Homepage","description":"testing","language":"en","slug":"test-auto-gen-home","creator":"lwjameson","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-07-08T14:25:26.769Z","updated_at":"2025-07-08T18:35:18.088Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"25a11656-b94a-4826-82e3-88f3cf78383e":{"content":[],"created_at":"2025-07-08T14:25:26.775Z","created_by":"lwjameson","title":"Test Auto-Gen Homepage","updated_at":"2025-07-08T14:25:26.775Z","updated_by":"lwjameson","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["25a11656-b94a-4826-82e3-88f3cf78383e"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "lwjameson",
+    "is_private": false,
+    "title": "Test Auto-Gen Homepage",
+    "description": "testing",
+    "language": "en",
+    "slug": "test-auto-gen-home",
+    "creator": "lwjameson",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-07-08T14:25:26.769Z",
+    "updated_at": "2025-07-08T19:52:31.826Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "25a11656-b94a-4826-82e3-88f3cf78383e": {
+      "content": [],
+      "created_at": "2025-07-08T14:25:26.775Z",
+      "created_by": "lwjameson",
+      "title": "Test Auto-Gen Homepage",
+      "updated_at": "2025-07-08T14:25:26.775Z",
+      "updated_by": "lwjameson",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "25a11656-b94a-4826-82e3-88f3cf78383e"
+  ]
+}
