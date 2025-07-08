@@ -1,42 +1,12 @@
 {
-  "content": [
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    }
-  ],
+  "content": [],
   "created_at": "2025-07-08T14:25:26.775Z",
   "created_by": "lwjameson",
   "title": "Test Auto-Gen Homepage",
-  "updated_at": "2025-07-08T19:57:13.532Z",
+  "updated_at": "2025-07-08T19:57:39.068Z",
   "updated_by": "lwjameson",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
