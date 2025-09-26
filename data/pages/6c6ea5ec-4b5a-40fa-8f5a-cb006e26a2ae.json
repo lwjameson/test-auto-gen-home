@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-09-26T14:38:24.280Z",
+  "created_by": "lwjameson",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1-2-3",
+  "updated_at": "2025-09-26T14:38:24.280Z",
+  "updated_by": "lwjameson",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c4d7952c-64b5-4265-b763-91fa4cfa2f26"
+  }
+}
