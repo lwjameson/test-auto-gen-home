@@ -1,0 +1,40 @@
+{
+  "event_id": "9e84dfe2-b5d3-42a6-ab9e-8b28532db338",
+  "source_id": "a5d3631c-a51e-44c2-b7f6-d90929e2f5a4",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "abdb1d76-63e1-4d5b-b34b-41be3cd9b4c9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "6e7977c5-4bbb-4b3e-a9c5-0252c4b27def"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "undefined"
+        }
+      ],
+      "tags": [],
+      "uuid": "631e3da8-5375-48b4-8566-743f108d5302"
+    }
+  ]
+}
