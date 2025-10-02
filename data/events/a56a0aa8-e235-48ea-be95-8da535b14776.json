@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "423a1734-559b-4cd7-8887-7870fc377d60": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/db78v181n/auto.m3u8",
+      "duration": 3720
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-02T20:16:13.230Z",
+  "created_by": "lwjameson",
+  "item_type": "Audio",
+  "label": "[Hungary, Budapest, 2007 - 2009]",
+  "updated_at": "2025-10-02T20:16:13.230Z",
+  "updated_by": "lwjameson",
+  "rights_statement": ""
+}
