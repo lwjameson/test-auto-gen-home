@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 41.5,
+      "end_time": 69.556,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  From coast to coast to coast we acknowledge the ancestral and unceded territory of all Inuit, Métis, and First Nations that call this home. The University of Alberta is located on Treaty 6 territory and the Métis Nation Homeland. I invite each of you to consider the traditional lands on which you might be located and take a moment to consider the responsibilities that follow from that."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3d894a0-2369-4c0c-a2cc-ca0e0125c08c"
+    }
+  ]
+}

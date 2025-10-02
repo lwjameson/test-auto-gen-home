@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1466.289,
+      "end_time": 1470.48,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You know, that's about... African romance."
+        }
+      ],
+      "tags": [],
+      "uuid": "3a53ab55-031b-4568-8618-d9928dbf4465"
+    }
+  ]
+}

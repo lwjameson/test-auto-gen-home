@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2303.969,
+      "end_time": 2308.449,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  incite more conversations and awareness about"
+        }
+      ],
+      "tags": [],
+      "uuid": "b067dfdf-747c-4525-a6a3-88cd2c03c199"
+    }
+  ]
+}

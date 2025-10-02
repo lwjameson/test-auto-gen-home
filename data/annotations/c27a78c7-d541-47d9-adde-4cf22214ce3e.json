@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1725.72,
+      "end_time": 1729.74,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  in search of monied men. You have swooped"
+        }
+      ],
+      "tags": [],
+      "uuid": "aab273ea-25a2-4615-ae9b-e3b7d95da1b3"
+    }
+  ]
+}

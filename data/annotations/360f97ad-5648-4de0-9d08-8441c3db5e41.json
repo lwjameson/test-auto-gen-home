@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1246,
+      "end_time": 1276.109,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, this is the fact. This is what this poem means to me. Um because my writings later I I invoke this bucolic, this pastoral atmosphere. And um I also eulogize. Eulogize a woman. Eulogize a woman working, singing, lively. Giving pleasure music to passers by."
+        }
+      ],
+      "tags": [],
+      "uuid": "793096a0-ada2-4eef-a59a-8df598544318"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1778.14,
+      "end_time": 1783.089,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  because of you. You have turned my husband's head away from home."
+        }
+      ],
+      "tags": [],
+      "uuid": "2edeff75-8317-4c65-bc8f-9c3ecaab588a"
+    }
+  ]
+}

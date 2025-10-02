@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 48.856,
+      "end_time": 52.95,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Métis, and First Nations that call this home. The"
+        }
+      ],
+      "tags": [],
+      "uuid": "24b312a2-1979-4b22-ac8c-477a37bdd49c"
+    }
+  ]
+}

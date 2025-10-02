@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2763,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, things have changed. Society is changing. And it's because of this consumerist and selfish attitude of of people. That everything is now is now a commodity. Everything can be sold. Anything can be sold in order to get by. So that is um. What I have to say about that."
+        }
+      ],
+      "tags": [],
+      "uuid": "5487bcf1-f280-442b-be59-03956e36a19f"
+    }
+  ]
+}

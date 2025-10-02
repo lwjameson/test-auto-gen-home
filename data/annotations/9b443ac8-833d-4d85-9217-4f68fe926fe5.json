@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 614.32,
+      "end_time": 618.61,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Forget the distractions of daily living. So, I'm very grateful for the Department"
+        }
+      ],
+      "tags": [],
+      "uuid": "47bfe94a-8a1e-46f7-a8ba-d67dbc0590c0"
+    }
+  ]
+}

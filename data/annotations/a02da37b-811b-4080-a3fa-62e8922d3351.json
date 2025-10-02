@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1244.99,
+      "end_time": 1249.279,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " my mother used to do. So, this is the fact. This is what"
+        }
+      ],
+      "tags": [],
+      "uuid": "3dbb6551-47e0-48aa-8d8e-a47dc11509c0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 65.219,
+      "end_time": 69.425,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  consider the responsibilities that follow from that. The"
+        }
+      ],
+      "tags": [],
+      "uuid": "e2e05cd8-c926-4e51-902e-6a11e4edb87a"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4541,
+      "end_time": 4545.43,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Like the sky is big enough for all the stars to exist at the same time. And"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7030ffd-10e0-4bf8-afdd-f78bd8aa1d28"
+    }
+  ]
+}

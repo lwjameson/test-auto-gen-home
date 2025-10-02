@@ -1,0 +1,18 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5176.5,
+      "end_time": 5195.529,
+      "annotation": [
+        {
+          "text": ""
+        }
+      ],
+      "tags": [],
+      "uuid": "45eef46c-6323-40fe-b179-b4c70a5626e3"
+    }
+  ]
+}

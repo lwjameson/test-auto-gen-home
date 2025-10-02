@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1403.9,
+      "end_time": 1408.609,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And, um, also Nigerian poets. Like J. P. Clark."
+        }
+      ],
+      "tags": [],
+      "uuid": "11296e62-a183-4d6b-8d3d-10e818498761"
+    }
+  ]
+}

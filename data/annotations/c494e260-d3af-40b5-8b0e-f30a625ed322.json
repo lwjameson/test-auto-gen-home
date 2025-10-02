@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3623.88,
+      "end_time": 3628.92,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  and the legacies of colonial intergenerational trauma"
+        }
+      ],
+      "tags": [],
+      "uuid": "58f70da3-e49c-4ab4-adec-1cc2d39cf607"
+    }
+  ]
+}

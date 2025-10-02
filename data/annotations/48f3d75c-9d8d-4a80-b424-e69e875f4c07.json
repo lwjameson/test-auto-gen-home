@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 414.25,
+      "end_time": 418.579,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  We'll now invite Titilope for a reading, just"
+        }
+      ],
+      "tags": [],
+      "uuid": "22639c6a-6562-46ea-a435-b4b3423aec68"
+    }
+  ]
+}

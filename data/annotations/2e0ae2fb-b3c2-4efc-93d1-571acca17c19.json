@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 31.91,
+      "end_time": 36.14,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  reaffirm our commitment and responsibility in improving relationships between"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbbaa817-9f4c-4ddb-99e5-3170aa217834"
+    }
+  ]
+}

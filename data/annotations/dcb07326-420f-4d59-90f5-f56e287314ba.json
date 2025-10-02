@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1276.109,
+      "end_time": 1280.319,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, it uh introduced"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a0ac954-8c8d-49cd-b652-0346e20b420c"
+    }
+  ]
+}

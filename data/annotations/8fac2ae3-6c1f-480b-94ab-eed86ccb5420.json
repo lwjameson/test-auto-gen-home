@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3240.8,
+      "end_time": 3245.619,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  week Freeman Fort was attacked by unknown persons"
+        }
+      ],
+      "tags": [],
+      "uuid": "879c05e9-5bd2-4bc5-bf04-d6bc43ff3826"
+    }
+  ]
+}

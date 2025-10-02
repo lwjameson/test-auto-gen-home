@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 57.159,
+      "end_time": 61.17,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  and the Métis Nation Homeland. I invite each of you to consider"
+        }
+      ],
+      "tags": [],
+      "uuid": "4218632d-5f6f-4cf9-8405-57b6208135e4"
+    }
+  ]
+}

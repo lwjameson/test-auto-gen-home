@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3986.19,
+      "end_time": 3990.42,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  this way that is really going to make people realize"
+        }
+      ],
+      "tags": [],
+      "uuid": "461bd2fe-e2f3-4eb0-af77-22b5b75b519a"
+    }
+  ]
+}

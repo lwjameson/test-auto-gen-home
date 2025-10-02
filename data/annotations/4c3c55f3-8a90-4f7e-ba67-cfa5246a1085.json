@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4801.5,
+      "end_time": 4805.72,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  for instance, I gather from newspapers."
+        }
+      ],
+      "tags": [],
+      "uuid": "cd80b718-c0b7-4490-9ae2-19883db704b7"
+    }
+  ]
+}

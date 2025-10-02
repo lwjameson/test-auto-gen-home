@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4140.739,
+      "end_time": 4144.779,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  contemporary African writers. For me someone like Teju Cole. And so"
+        }
+      ],
+      "tags": [],
+      "uuid": "de8388da-ce23-468f-82f4-a15a3bdcc3f4"
+    }
+  ]
+}

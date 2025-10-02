@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1177.269,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " She reminded me of my mother. And it unleashed anguish. Because there were no photos, no telephones, nothing. Like we just imagined her, you know. And then the poem speaks of battles of long ago, you know. Matters of sorrow, of pain, so it resonated with me, and it stuck. Held me hostage."
+        }
+      ],
+      "tags": [],
+      "uuid": "0b8117f3-789f-48f9-bc42-809e53d18453"
+    }
+  ]
+}

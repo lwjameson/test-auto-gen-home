@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4178.119,
+      "end_time": 4182.199,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  Uche, you mentioned Nollywood and how Nollywood"
+        }
+      ],
+      "tags": [],
+      "uuid": "e39df840-8ba0-415f-a249-c3810e2fd517"
+    }
+  ]
+}

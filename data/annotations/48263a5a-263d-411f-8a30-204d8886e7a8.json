@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1322,
+      "end_time": 1403.9,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Which, as I said, I studied the classics in university. English and French. And so, that gives you the whole literature of the English language and all the the French language. So, they all had impacted me, you know... French, English, Honoré de Balzac. All of them impacted me."
+        }
+      ],
+      "tags": [],
+      "uuid": "fc264d11-449c-441e-8518-3c863da61f90"
+    }
+  ]
+}

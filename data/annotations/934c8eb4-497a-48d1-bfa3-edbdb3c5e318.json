@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3428.699,
+      "end_time": 3432.789,
+      "annotation": [
+        {
+          "text": " Audience 1:",
+          "bold": true
+        },
+        {
+          "text": "  expect it because I am a huge fan of yours. I'd like to"
+        }
+      ],
+      "tags": [],
+      "uuid": "b54139ec-7f89-4505-b850-5b80d7a37d8a"
+    }
+  ]
+}

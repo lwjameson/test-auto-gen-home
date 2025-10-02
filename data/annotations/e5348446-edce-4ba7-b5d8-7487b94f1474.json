@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3978.019,
+      "end_time": 3982.039,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  I I totally agree that we need to share these stories about"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ada4391-ec36-4ff2-8999-272481103593"
+    }
+  ]
+}

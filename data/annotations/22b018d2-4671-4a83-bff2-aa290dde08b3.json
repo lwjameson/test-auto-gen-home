@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 751.09,
+      "end_time": 780,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Whate'er the theme, the Maiden sang As if her song could have no ending; I saw her singing at her work, And o'er the sickle bending; I listened motionless and still; And, as I mounted up the hill, The music in my heart I bore, Long after it was heard no more. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "b27e19cb-a891-4661-b1bc-85ba9e396999"
+    }
+  ]
+}

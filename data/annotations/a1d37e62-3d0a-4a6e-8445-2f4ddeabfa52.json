@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 981.5,
+      "end_time": 1009.509,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " But I love all all artists. And I would say that my my work isn't only influenced by poets. But um I understand that I come in the tradition of Mabel Segun and even Buche Emecheta and writers who who in their time were creating work that that was beautiful in its simplicity and was a massive political statement of the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d4dc3dd-47de-4091-895b-4d1dd2e101d2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4338.09,
+      "end_time": 4342.68,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  they have Hollywood. They have Bollywood. They have other experiences."
+        }
+      ],
+      "tags": [],
+      "uuid": "9fe60ab3-72b9-401f-b430-c6ac813db8fc"
+    }
+  ]
+}

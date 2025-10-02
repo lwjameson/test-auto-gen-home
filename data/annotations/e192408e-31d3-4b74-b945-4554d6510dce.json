@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4604.59,
+      "end_time": 4639.149,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  There are two questions. One from... How would you define your poetic style? That's for you. And then there's a question for both of you from Carlo who is asking, besides publishing what are other plans and programs you have to propogate the suggestions found in your works through some of the people who should really hear them. The people I mean here are those who are really affected by some of these issues addressed both in reference to culture and politics."
+        }
+      ],
+      "tags": [],
+      "uuid": "7063eb08-1977-4a24-892a-8cc4016bbed1"
+    }
+  ]
+}

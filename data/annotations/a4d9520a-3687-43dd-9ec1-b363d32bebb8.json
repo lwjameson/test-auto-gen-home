@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5034.329,
+      "end_time": 5045,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, that's what I can say. As a writer, you write. And then leave it to those have the means to act. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "8940ef1e-fa95-4d7c-b8ec-c16aa95749d4"
+    }
+  ]
+}

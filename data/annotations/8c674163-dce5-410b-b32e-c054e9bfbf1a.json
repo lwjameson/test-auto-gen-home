@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4906.72,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So? The deafest person is the person who does not want to hear. Government is aware of these problems. If government wants to do something it can do something."
+        }
+      ],
+      "tags": [],
+      "uuid": "d3b08005-ad74-4603-8176-0fb215f98791"
+    }
+  ]
+}

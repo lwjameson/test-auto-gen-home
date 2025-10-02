@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1851.029,
+      "end_time": 1855.539,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  across the globe. How we disappear in physical and"
+        }
+      ],
+      "tags": [],
+      "uuid": "727df74d-4f0c-4bf8-a865-7aff7e5c7a1a"
+    }
+  ]
+}

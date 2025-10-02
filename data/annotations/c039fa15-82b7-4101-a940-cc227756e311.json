@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 480.329,
+      "end_time": 484.43,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  What do we do we? We birth new citizens and"
+        }
+      ],
+      "tags": [],
+      "uuid": "3106968d-e573-4242-bd12-7737caabdf4b"
+    }
+  ]
+}

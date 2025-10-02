@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4380,
+      "end_time": 4413.75,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Another thing that I I came across was, you know, almost illiterate children in Nigeria. Now they make a plane. And they fly it. They they tweak it, and the thing takes off and lands maybe a hundred metres away. They make a car. They make all sorts of gadgets. They make a bicycle. And they are illiterate. They have not been to school. You see? They have always been there, but now with the social media they are coming into the limelight. And they are saying, oh!"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8955efb-c48b-4316-b85c-3ed4c1facb8c"
+    }
+  ]
+}

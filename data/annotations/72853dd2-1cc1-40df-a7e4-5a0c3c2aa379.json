@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3324.23,
+      "end_time": 3328.46,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  female inmates whose condition"
+        }
+      ],
+      "tags": [],
+      "uuid": "bab054b9-50ef-4220-b518-331b7bc55d56"
+    }
+  ]
+}

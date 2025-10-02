@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3990.42,
+      "end_time": 3994.969,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  what's going on and how urgent it is. So, thank you, yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "b4662506-39e6-4f41-bd2c-87f3a35aefc5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2066.07,
+      "end_time": 2070.219,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " ask my mother the Yoruba word for shame. Do you know"
+        }
+      ],
+      "tags": [],
+      "uuid": "60f431ea-1b47-4e08-885a-fb49ec76373e"
+    }
+  ]
+}

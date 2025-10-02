@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4352.64,
+      "end_time": 4380,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And so people are tuning in and um hearing music. People who under normal circumstances would not have access to to, you know, to a producer. They they are producing. They are producing and pushing it out on the internet. And so you have to reckon with them. Tiktok... and they push it out. So, you are seeing them more. But they've always be there."
+        }
+      ],
+      "tags": [],
+      "uuid": "5a8a9976-5c45-4578-9a99-5a22dd5136f2"
+    }
+  ]
+}

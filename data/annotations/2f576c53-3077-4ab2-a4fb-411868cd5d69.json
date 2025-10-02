@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1101.119,
+      "end_time": 1105.65,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " from Nigeria, Biafra then, to"
+        }
+      ],
+      "tags": [],
+      "uuid": "28bb7f32-772c-4fd8-a730-640e966ad3df"
+    }
+  ]
+}

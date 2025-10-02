@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5177.119,
+      "end_time": 5181.789,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  this point, I would like to invite Mike to formally close the event. And"
+        }
+      ],
+      "tags": [],
+      "uuid": "6124e8a8-2093-44f9-901f-22c90032b25b"
+    }
+  ]
+}

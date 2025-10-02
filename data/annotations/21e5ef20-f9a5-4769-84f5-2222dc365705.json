@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1807.43,
+      "end_time": 1811.779,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  performance of the... monologue. And uh"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ab3444a-8793-40f2-ae0a-82d91c19fb64"
+    }
+  ]
+}

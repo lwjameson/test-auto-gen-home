@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1760.569,
+      "end_time": 1764.839,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  like change. Made me a temp widow."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9cb07e7-7bc5-4d4d-a309-79e87b2ba3c1"
+    }
+  ]
+}

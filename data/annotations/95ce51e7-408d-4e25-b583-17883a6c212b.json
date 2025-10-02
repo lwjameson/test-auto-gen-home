@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 475.56,
+      "end_time": 480.329,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  very timely for me in this time. And so here it goes."
+        }
+      ],
+      "tags": [],
+      "uuid": "6734efca-9708-42bc-9e87-a31b1651d260"
+    }
+  ]
+}

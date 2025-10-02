@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1024.5,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " Toni Morrison was a writer who always emphasized the idea that she was writing for a specific audience. And the gaze that she was writing towards was theirs. And so they were a lot of things in her work that were left unsaid. That is something I find really beautiful, as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "b0fc916d-9914-4dee-a4bf-e06b13754396"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4480.569,
+      "end_time": 4484.909,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  connected way that the world is. In I think in in in"
+        }
+      ],
+      "tags": [],
+      "uuid": "a992450a-59df-4299-b855-fc2dbb418800"
+    }
+  ]
+}

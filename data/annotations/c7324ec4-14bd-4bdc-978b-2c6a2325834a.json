@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2943.019,
+      "end_time": 2959.8,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  What grace. To be known and loved before your birth. Isn't that the history of Blackness across the globe? Isn't that the very ingredient of our improbable acts of survival? That we have always made an offering into a future you will never see."
+        }
+      ],
+      "tags": [],
+      "uuid": "ece2f10f-4122-468f-a7a9-b27e9eaed3e1"
+    }
+  ]
+}

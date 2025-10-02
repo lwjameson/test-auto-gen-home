@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 18.94,
+      "end_time": 23.17,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  by acknowledging the indigenous peoples of all the lands that we are on today."
+        }
+      ],
+      "tags": [],
+      "uuid": "c933738f-ffe7-4700-8223-668bd5b5b4b5"
+    }
+  ]
+}

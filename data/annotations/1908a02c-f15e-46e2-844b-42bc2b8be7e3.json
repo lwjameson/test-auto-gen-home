@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3263.659,
+      "end_time": 3268.71,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  set up a panel to investigate the incident. The break,"
+        }
+      ],
+      "tags": [],
+      "uuid": "dec815ec-e3c5-44cb-81d5-38c610210ae8"
+    }
+  ]
+}

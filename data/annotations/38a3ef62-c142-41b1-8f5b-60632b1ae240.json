@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3096.269,
+      "end_time": 3101.869,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So uh, as Uche already said, NGOs,"
+        }
+      ],
+      "tags": [],
+      "uuid": "64b12bfc-3a00-4668-ae3f-17c7d751ad64"
+    }
+  ]
+}

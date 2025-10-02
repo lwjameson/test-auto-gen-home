@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5228.84,
+      "end_time": 5233.069,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  And Jason Camelot at Concordia, Montreal. And all of our friends across"
+        }
+      ],
+      "tags": [],
+      "uuid": "e339453e-0fc9-438a-b426-9383b6f2dfd8"
+    }
+  ]
+}

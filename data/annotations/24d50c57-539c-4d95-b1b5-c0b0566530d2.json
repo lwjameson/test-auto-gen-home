@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 349.949,
+      "end_time": 353.98,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " Europe, North America, and she is the author of"
+        }
+      ],
+      "tags": [],
+      "uuid": "78ac0291-e41e-4cbf-acc7-f0ada441c9f1"
+    }
+  ]
+}

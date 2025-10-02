@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3388,
+      "end_time": 3418.28,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I I don't want to enjoy all the privilege of asking you questions. And so I'll open up the space for people to ask their questions. And please unmute your mic if you want to ask a question and please be concise. Be uh precise. Just go straight to the point. So other people can have the opportunity of asking questions also."
+        }
+      ],
+      "tags": [],
+      "uuid": "43ed8d01-b8b9-4d2c-9572-d2e9851f2cfd"
+    }
+  ]
+}

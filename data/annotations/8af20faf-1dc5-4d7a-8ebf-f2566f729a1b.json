@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3319.88,
+      "end_time": 3324.23,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  marginal narratives. And these narratives of people who"
+        }
+      ],
+      "tags": [],
+      "uuid": "084ada83-c847-437c-9bb8-cf700ee707c0"
+    }
+  ]
+}

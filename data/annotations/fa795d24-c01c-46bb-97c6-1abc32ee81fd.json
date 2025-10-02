@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4247.18,
+      "end_time": 4251.199,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Not just Nigerian, too. Last year we had almost all the"
+        }
+      ],
+      "tags": [],
+      "uuid": "70d75b3e-9c47-4bfb-b7cc-d1da2c077dd8"
+    }
+  ]
+}

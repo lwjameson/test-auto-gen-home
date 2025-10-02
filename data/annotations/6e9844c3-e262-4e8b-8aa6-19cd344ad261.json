@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 456.5,
+      "end_time": 480.329,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " So, we're doing things a bit differently by each starting with poems that are urgent and relevant to us in this time. So, this isn't my work but as a woman and a mother who is raising small children in a pandemic this poem y Maggie Smith called Interrogators of Orchids is one that feels very timely for me in this time. And so here it goes."
+        }
+      ],
+      "tags": [],
+      "uuid": "2d7b5a63-6eb3-4587-8aa4-af56a26afa9a"
+    }
+  ]
+}

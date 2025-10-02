@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 998.82,
+      "end_time": 1004.789,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " their time were creating work that that was"
+        }
+      ],
+      "tags": [],
+      "uuid": "d6ba2c99-8b84-4e0b-a45d-9e80dd5144f3"
+    }
+  ]
+}

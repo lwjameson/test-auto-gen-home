@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5070.069,
+      "end_time": 5074.079,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  questions, uh uh you can."
+        }
+      ],
+      "tags": [],
+      "uuid": "e3605dc3-07ab-4c2c-b817-7eb701374208"
+    }
+  ]
+}

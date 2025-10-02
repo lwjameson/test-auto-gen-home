@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2593.88,
+      "end_time": 2598,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But I think it's it's a... The problem with"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc039a3a-0f11-4181-afbb-3eb8781190a2"
+    }
+  ]
+}

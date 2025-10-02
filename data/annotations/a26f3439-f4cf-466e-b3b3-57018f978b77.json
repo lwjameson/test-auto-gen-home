@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2265.3,
+      "end_time": 2269.32,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  somehow it got filled with smoke and the"
+        }
+      ],
+      "tags": [],
+      "uuid": "42a5d305-765e-4968-b79a-05eee703fd9d"
+    }
+  ]
+}

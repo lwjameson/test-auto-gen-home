@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 802,
+      "end_time": 829,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " And I I feel when I started writing poetry William Wordsworth was one of the poets I looked to. And I remember Ode on an... Ode on... Tintern Abbey, I think, and Intonations of Immortality. Those were two poems I always turn to uh while trying to imitate these great poets."
+        }
+      ],
+      "tags": [],
+      "uuid": "e002e213-ce36-4dd8-b5f9-ded697e1182a"
+    }
+  ]
+}

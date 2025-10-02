@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1565.63,
+      "end_time": 1569.809,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  woman is complaining because her husband doesn't"
+        }
+      ],
+      "tags": [],
+      "uuid": "68ed36ef-3bfb-4917-9bd6-a5436c00eaae"
+    }
+  ]
+}

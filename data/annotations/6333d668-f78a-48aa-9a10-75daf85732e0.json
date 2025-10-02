@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 115.5,
+      "end_time": 147,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  But we're also very much engaged in the current moment of creation and to that end we support and celebrate literary performances such as this, recording and preserving them for posterity. SpokenWeb's Archive of the Present, developed by our project center at Concordia University, Montreal, preserves digital sound recordings, video, and print materials that document SpokenWeb events produced across the research network. To learn more about SpokenWeb you can visit us at spokenweb.ca."
+        }
+      ],
+      "tags": [],
+      "uuid": "03d627a4-ec9c-4054-ab9b-d85ae935470c"
+    }
+  ]
+}

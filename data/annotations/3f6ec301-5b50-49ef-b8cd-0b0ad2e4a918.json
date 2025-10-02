@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4194.55,
+      "end_time": 4198.56,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  to sort of tap into Nigerian culture. And I think in the way"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd9001b0-0c42-4bc1-b0f6-500cd9877180"
+    }
+  ]
+}

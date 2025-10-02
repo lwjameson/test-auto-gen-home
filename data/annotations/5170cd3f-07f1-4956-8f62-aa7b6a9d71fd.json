@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3975.92,
+      "end_time": 3978.019,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you. That was a wonderful answer. I I totally agree that we need to share these stories about what's happening all over the world, right? It's coming together and communicating that this way that is really going to make people realize what's going on and how urgent it is. So, thank you, yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "e1d71155-c1f7-48ea-80c0-9bf12ee5cec4"
+    }
+  ]
+}

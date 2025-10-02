@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 345.16,
+      "end_time": 349.949,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " who are not familiar the Nigerian film industry. Titilope has performed her poetry in Africa,"
+        }
+      ],
+      "tags": [],
+      "uuid": "0ca692bc-a145-447f-b258-a4706ec351d3"
+    }
+  ]
+}

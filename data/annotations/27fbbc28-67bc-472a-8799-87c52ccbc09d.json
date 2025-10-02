@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2098.469,
+      "end_time": 2122.599,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  It is customary to wait seven days to name a child. Touch her lips with water and palm oil, honey and salt, kola, give her a taste of the bitter and the sweet, the joy and the pain. Pray for her a spirit with the resilience of water. All of this just say: stay. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "bbae2b86-c1d7-452e-9246-7a39e7866c7a"
+    }
+  ]
+}

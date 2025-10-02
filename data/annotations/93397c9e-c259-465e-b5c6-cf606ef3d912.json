@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1110.299,
+      "end_time": 1114.589,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " took me and my, some of my siblings into their"
+        }
+      ],
+      "tags": [],
+      "uuid": "887716f3-7dec-49d4-810b-10005691c2ed"
+    }
+  ]
+}

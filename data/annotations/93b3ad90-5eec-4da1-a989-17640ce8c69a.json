@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1569.809,
+      "end_time": 1574.91,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  have time for her. And there there's a back and forth."
+        }
+      ],
+      "tags": [],
+      "uuid": "0421ffef-20b7-41aa-8929-97a40da28949"
+    }
+  ]
+}

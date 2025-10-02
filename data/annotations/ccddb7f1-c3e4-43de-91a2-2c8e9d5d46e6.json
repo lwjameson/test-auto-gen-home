@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5025.47,
+      "end_time": 5029.609,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  That's why the last, um, the last demonstration we had was called"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a7138d6-3d61-4dad-bbbe-0d83a2247fbd"
+    }
+  ]
+}

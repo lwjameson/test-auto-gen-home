@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3122.079,
+      "end_time": 3126.739,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Because there is what we call amnesty. Once Nigeria had independence"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2f54674-b18a-473b-adc4-73e1f30d02e7"
+    }
+  ]
+}

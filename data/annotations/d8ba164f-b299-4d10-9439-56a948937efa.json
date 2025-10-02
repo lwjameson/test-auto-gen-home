@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2316.82,
+      "end_time": 2321.329,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Ifeoma you can take a shot at that question."
+        }
+      ],
+      "tags": [],
+      "uuid": "052b2d94-5375-4474-abbf-e69d91af235a"
+    }
+  ]
+}

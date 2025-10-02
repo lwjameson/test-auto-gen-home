@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1293.49,
+      "end_time": 1297.69,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " other things we have done. This is the only um aspect of this event where"
+        }
+      ],
+      "tags": [],
+      "uuid": "120a4fa5-08fd-4790-9907-0209e172bdb2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1926.2,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Midnight at the water's edge. Blessing and three thousand refugees wade in, silent and barefoot. They fall into the sea. Soon, most will wash back ashore with no names to call but the numbers scribbled on their clothes. For weeks, the smuggler's telephones on the other side, silent. No one to answer for the girls, with skin like rich palm oil bloodying the water."
+        }
+      ],
+      "tags": [],
+      "uuid": "1510a6eb-f7d8-4531-ae80-29841cee00c5"
+    }
+  ]
+}

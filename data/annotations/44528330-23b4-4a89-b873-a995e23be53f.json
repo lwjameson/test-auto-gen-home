@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1031.309,
+      "end_time": 1035.329,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " And the gaze that she was writing towards was theirs. And so they were a"
+        }
+      ],
+      "tags": [],
+      "uuid": "34b5e6f8-bb4a-46c0-b021-be064eb78275"
+    }
+  ]
+}

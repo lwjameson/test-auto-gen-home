@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2826.969,
+      "end_time": 2831.059,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  also question our actions and our"
+        }
+      ],
+      "tags": [],
+      "uuid": "5928ed2d-a1fb-48cb-92f4-4b1df88ad2d8"
+    }
+  ]
+}

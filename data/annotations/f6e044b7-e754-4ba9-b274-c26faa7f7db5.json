@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1359.839,
+      "end_time": 1363.89,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Every writer must read. And so we have read so widely and,"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c09dd59-d103-4f4f-b421-e6104d99eb81"
+    }
+  ]
+}

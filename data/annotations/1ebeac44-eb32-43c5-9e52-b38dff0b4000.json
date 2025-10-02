@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1597.23,
+      "end_time": 1601.569,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  trouble in my my household? It's the women outside."
+        }
+      ],
+      "tags": [],
+      "uuid": "a8701f03-6d51-4084-b6d3-e922d8c08c7b"
+    }
+  ]
+}

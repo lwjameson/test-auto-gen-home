@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3641.53,
+      "end_time": 3645.61,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  time against the constraints that hold us back"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3505b61-c9cc-4d83-bf37-e6c726b4d53b"
+    }
+  ]
+}

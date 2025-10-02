@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 960.659,
+      "end_time": 964.809,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " and honored and celebrated. And that's particularly why"
+        }
+      ],
+      "tags": [],
+      "uuid": "94bfc274-4385-4db0-a1dd-e1a4a02c25a2"
+    }
+  ]
+}

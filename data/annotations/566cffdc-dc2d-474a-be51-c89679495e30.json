@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5143.02,
+      "end_time": 5147.17,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  responses and your amazing readings. And I, like"
+        }
+      ],
+      "tags": [],
+      "uuid": "d9a3824f-cac1-43ac-bc69-8e510d6ce5d9"
+    }
+  ]
+}

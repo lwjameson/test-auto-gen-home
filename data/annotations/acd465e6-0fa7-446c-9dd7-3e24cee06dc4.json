@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2928.26,
+      "end_time": 2933.05,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  the moment of their awakening. That is to say, my presence,"
+        }
+      ],
+      "tags": [],
+      "uuid": "e58ebee8-b112-409d-b7a2-0c70adf8af1d"
+    }
+  ]
+}

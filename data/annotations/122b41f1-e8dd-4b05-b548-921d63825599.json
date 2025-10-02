@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 251.5,
+      "end_time": 274.56,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  I'll begin with Ifeoma Chinwuba, who is currently the writer-in-residence in the Department of English and Film Studies at the University of Alberta. She's an accomplished diplomat who has travelled to more than sixty countries in the world. She's also a celebrated novelist,poet, essayist, and literary critic."
+        }
+      ],
+      "tags": [],
+      "uuid": "14406bb5-02dd-4892-97b5-9b26575d4d9b"
+    }
+  ]
+}

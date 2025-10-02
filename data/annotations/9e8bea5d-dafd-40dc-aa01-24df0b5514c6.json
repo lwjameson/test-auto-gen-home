@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3609.739,
+      "end_time": 3614.3,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  just read it seems to be intergenerational in its force."
+        }
+      ],
+      "tags": [],
+      "uuid": "092fef19-24de-46f4-861f-59d2d5c65299"
+    }
+  ]
+}

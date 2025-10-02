@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 900.95,
+      "end_time": 905,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " these poets, these writers, and what you find fascinating or"
+        }
+      ],
+      "tags": [],
+      "uuid": "6259eae5-3d18-46e3-9beb-5b24da6900af"
+    }
+  ]
+}

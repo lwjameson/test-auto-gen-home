@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3931.239,
+      "end_time": 3937.699,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  The middle of winter. We are having nine degrees! Ten degrees! And I'm asking."
+        }
+      ],
+      "tags": [],
+      "uuid": "2fdf07ec-65fe-46d8-b261-174a1dae98a3"
+    }
+  ]
+}

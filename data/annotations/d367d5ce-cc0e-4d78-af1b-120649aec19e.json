@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 909.09,
+      "end_time": 937,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I'm deeply fascinated by people who are able to take sort of the quiet intimacies of everyday life and turn that into something that feels big and beautiful. Those kind of writers as reminds me that like just what is happening in your life in this moment can be a large statements. That poems don't always have to be epics to be epic, you understand what I mean."
+        }
+      ],
+      "tags": [],
+      "uuid": "19c1202b-5f84-4388-8477-f313e801621d"
+    }
+  ]
+}

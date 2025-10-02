@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1403.9,
+      "end_time": 1425.89,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And, um, also Nigerian poets. Like J. P. Clark. You know? Who also talked about normal, day African experiences. Like the spirit child we met last week. The child that dies and comes again. Never to spoke about a night rain. You know, simple things that uh..."
+        }
+      ],
+      "tags": [],
+      "uuid": "c328e2f2-5d46-4ff7-9880-d95bc640a4a5"
+    }
+  ]
+}

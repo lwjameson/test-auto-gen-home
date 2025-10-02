@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2330.929,
+      "end_time": 2335.139,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  human trafficking, and all the structures that"
+        }
+      ],
+      "tags": [],
+      "uuid": "06218214-3219-4c3e-ba76-f9a6b076d6f3"
+    }
+  ]
+}

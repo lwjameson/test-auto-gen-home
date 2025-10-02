@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2294.55,
+      "end_time": 2299.789,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  women within Nigeria and generally in Africa is still bleak."
+        }
+      ],
+      "tags": [],
+      "uuid": "71308ca3-e1be-4d97-bc48-fd95f646b14d"
+    }
+  ]
+}

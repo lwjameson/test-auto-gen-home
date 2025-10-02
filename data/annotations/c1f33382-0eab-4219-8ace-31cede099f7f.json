@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1691.309,
+      "end_time": 1695.329,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  reaping where you did not sow. You weave Ponzi into"
+        }
+      ],
+      "tags": [],
+      "uuid": "d755de13-c2ae-4e4f-8950-0e58aed6dd92"
+    }
+  ]
+}

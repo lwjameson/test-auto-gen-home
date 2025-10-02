@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 860.299,
+      "end_time": 890.009,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And Ifeoma I also want you to talk more about your literary influences because I know that there's so much idyllic and pastoral quality to the the kind of poems I've heard you I've heard you read and uh this ideal that uh resonates in the kind of poetry you write in terms of landscape, uh birds, plateaus, hills, and the the the river."
+        }
+      ],
+      "tags": [],
+      "uuid": "3ff95ab7-ba92-42d1-ab5b-6d5b95585f27"
+    }
+  ]
+}

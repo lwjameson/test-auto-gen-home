@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2273.48,
+      "end_time": 2277.53,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  choked to death by the fumes."
+        }
+      ],
+      "tags": [],
+      "uuid": "f7753f5f-59d2-42cf-bdac-502f9b7d5455"
+    }
+  ]
+}

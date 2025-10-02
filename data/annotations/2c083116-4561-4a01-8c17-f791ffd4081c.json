@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4093.889,
+      "end_time": 4098.079,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you, yeah. I I agree. I think that's the hopeful part of it, right? Is is"
+        }
+      ],
+      "tags": [],
+      "uuid": "1162e5b5-a53d-46b4-a042-714f5a4b6865"
+    }
+  ]
+}

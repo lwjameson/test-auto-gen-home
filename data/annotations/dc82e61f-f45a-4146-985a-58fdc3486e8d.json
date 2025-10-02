@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1870.579,
+      "end_time": 1875.039,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " They were taken across the border into Cameroon, witnesses said."
+        }
+      ],
+      "tags": [],
+      "uuid": "680927da-b855-41c2-9255-9a1b8f19c502"
+    }
+  ]
+}

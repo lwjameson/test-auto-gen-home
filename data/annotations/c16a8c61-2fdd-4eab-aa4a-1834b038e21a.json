@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3432.789,
+      "end_time": 3436.969,
+      "annotation": [
+        {
+          "text": " Audience 1:",
+          "bold": true
+        },
+        {
+          "text": "  know what you are currently working on. And I really like your smile. It"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b5e9431-fbd8-4e83-bc5a-f74f3fec2a4c"
+    }
+  ]
+}

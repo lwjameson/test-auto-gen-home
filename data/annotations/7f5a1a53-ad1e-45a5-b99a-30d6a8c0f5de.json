@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2580.949,
+      "end_time": 2585.119,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  of women, you know, involved in human"
+        }
+      ],
+      "tags": [],
+      "uuid": "9fa34612-a65e-4c74-b8d8-809b88eba0c9"
+    }
+  ]
+}

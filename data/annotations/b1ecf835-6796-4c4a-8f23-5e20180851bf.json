@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 128.52,
+      "end_time": 132.639,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Present, developed by our project center at Concordia University,"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb540056-55fe-40ea-9d5c-7598a2bd4c5d"
+    }
+  ]
+}

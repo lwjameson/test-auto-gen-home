@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 14.669,
+      "end_time": 18.94,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  board member of the SpokenWeb research network. I'd like to begin"
+        }
+      ],
+      "tags": [],
+      "uuid": "7924d30a-a267-42be-96b0-d9f423e18e35"
+    }
+  ]
+}

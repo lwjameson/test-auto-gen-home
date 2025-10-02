@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1377.66,
+      "end_time": 1382.289,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Will Shakespeare's sonnets. So many sonnets. Shall I compare thee to a summer's day? Such like."
+        }
+      ],
+      "tags": [],
+      "uuid": "6a965044-d35e-4c22-bd3d-42a96557815a"
+    }
+  ]
+}

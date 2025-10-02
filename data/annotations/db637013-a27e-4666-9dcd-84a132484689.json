@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5263.13,
+      "end_time": 5267.14,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  for joining us today and to wish to wish each of you all the"
+        }
+      ],
+      "tags": [],
+      "uuid": "6628e9a2-52a1-4857-be13-b548e6f18198"
+    }
+  ]
+}

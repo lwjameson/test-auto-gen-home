@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2163.599,
+      "end_time": 2167.699,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  This woman is not a project. And this woman is not a sin. This brings"
+        }
+      ],
+      "tags": [],
+      "uuid": "f978238b-3818-4c29-b19a-5a1d683aafb3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 228.069,
+      "end_time": 232.36,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  us today and listen to Ifeoma Chinwuba and Titilope"
+        }
+      ],
+      "tags": [],
+      "uuid": "98543dd9-c3eb-45ab-b225-c3033724aaf9"
+    }
+  ]
+}

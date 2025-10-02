@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3786.929,
+      "end_time": 3791.51,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Um. And um."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f7726e4-f63f-4bd0-95d8-8a5dc529af23"
+    }
+  ]
+}

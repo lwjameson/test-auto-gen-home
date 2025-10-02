@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2394.849,
+      "end_time": 2398.889,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  also to writes about joy. I think it is a radical thing to hold those two things"
+        }
+      ],
+      "tags": [],
+      "uuid": "b28fc98a-4578-4af3-98c0-418cdb3687c3"
+    }
+  ]
+}

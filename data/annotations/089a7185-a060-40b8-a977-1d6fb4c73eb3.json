@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1118,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And so we went to school. Back in Biafra then. Back in Nigeria. We are still, you know, English is not our first language. Igbo is. We are all communicating in Igbo. And trying to learn English. You know is, was, make a sentence. This is a goat. This is a car."
+        }
+      ],
+      "tags": [],
+      "uuid": "cd9a8672-f1b5-4d2a-b132-417594cd094a"
+    }
+  ]
+}

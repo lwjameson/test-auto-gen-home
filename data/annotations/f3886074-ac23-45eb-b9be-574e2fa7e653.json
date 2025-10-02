@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 557.09,
+      "end_time": 561.19,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " ask, how does the lights not lose its patience between the"
+        }
+      ],
+      "tags": [],
+      "uuid": "78eb3243-0f2d-4b5e-8470-3f1e24008fe0"
+    }
+  ]
+}

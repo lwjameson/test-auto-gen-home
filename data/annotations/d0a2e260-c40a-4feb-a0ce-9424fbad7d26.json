@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4413.75,
+      "end_time": 4417.979,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  There's a lot of this. There is a lot of that. But it's always been there."
+        }
+      ],
+      "tags": [],
+      "uuid": "4df7e184-5c74-4e02-8078-c3dcf23410ff"
+    }
+  ]
+}

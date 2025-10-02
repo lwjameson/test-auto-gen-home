@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4144.779,
+      "end_time": 4169.5,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  And so I I feel like there is at this time. There isn't like a shortlist of Nigerian writers throughout the world. You find that there are Nigerians doing great literature throughout the world and have been doing so. And for the younger generation I would also say that most recently you had just the explosion of a music, Nigerian music and afrobeats and afropop, whether its Wizkid, Burna Boy."
+        }
+      ],
+      "tags": [],
+      "uuid": "874f94b3-b214-41e9-ac99-9e41ca2daad6"
+    }
+  ]
+}

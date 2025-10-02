@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4736.069,
+      "end_time": 4740.149,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  and can touch as many people as possible."
+        }
+      ],
+      "tags": [],
+      "uuid": "9161375e-5789-40ba-b036-5dc2e136fd8b"
+    }
+  ]
+}

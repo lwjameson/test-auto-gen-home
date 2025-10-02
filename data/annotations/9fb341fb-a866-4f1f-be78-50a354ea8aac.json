@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 719.5,
+      "end_time": 751.09,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Will no one tell me what she sings? Perhaps the plaintive numbers flow for old, unhappy, far-off things, and battles of long ago: Or is it some more humble lay,familiar matter of to-day? Some natural sorrow, loss, or pain, That has been, and may be again?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b056fac-e839-46a2-90d5-2396ad433e9b"
+    }
+  ]
+}

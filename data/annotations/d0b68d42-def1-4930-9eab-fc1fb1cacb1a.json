@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3571.59,
+      "end_time": 3575.619,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  definitely another collection. I I'm heading off to a residency in the next"
+        }
+      ],
+      "tags": [],
+      "uuid": "74e3b3a4-22f7-45fa-b16e-b38d44b6b403"
+    }
+  ]
+}

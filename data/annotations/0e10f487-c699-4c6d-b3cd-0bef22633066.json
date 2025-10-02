@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1280.319,
+      "end_time": 1284.42,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " me to to the panegyric, you know? Singing the praise of"
+        }
+      ],
+      "tags": [],
+      "uuid": "805ce648-e74f-4145-9245-59a1a1ad62ec"
+    }
+  ]
+}

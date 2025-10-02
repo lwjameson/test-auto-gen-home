@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 204.789,
+      "end_time": 209.849,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  for today. Please welcome Uche Umezurike."
+        }
+      ],
+      "tags": [],
+      "uuid": "25c6f6f4-7567-47e3-8778-6cff750fcf29"
+    }
+  ]
+}

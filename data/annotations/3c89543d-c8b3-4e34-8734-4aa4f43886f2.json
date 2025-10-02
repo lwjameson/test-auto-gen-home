@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 52.95,
+      "end_time": 57.159,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  University of Alberta is located on Treaty 6 territory"
+        }
+      ],
+      "tags": [],
+      "uuid": "54675616-2bc3-4723-80a8-66a9e6e21549"
+    }
+  ]
+}

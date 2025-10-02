@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1004.789,
+      "end_time": 1009.509,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " beautiful in its simplicity and was a massive political statement"
+        }
+      ],
+      "tags": [],
+      "uuid": "4195c000-9508-41a3-9618-3c14d9c2b3e2"
+    }
+  ]
+}

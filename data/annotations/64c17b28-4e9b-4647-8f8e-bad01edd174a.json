@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2221.5,
+      "end_time": 2277.53,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I really like that novel because I I like the way Ifeoma used the broken down, dysfunctional vehicle known as Black Maria, which is used to transport inmates or the accused to the prison. And it's so striking that's the the vehicle is grounded. It's it doesn't work. And it makes me think sadly about our country, Nigeria, as a stationary, grounded vehicle that doesn't move. And eventually decides to move. When it was repaired in the novel somehow it got filled with smoke and the inmates in the vehicle were choked to death by the fumes."
+        }
+      ],
+      "tags": [],
+      "uuid": "ad0cdca6-1856-4efa-8e64-82d4bc0d6644"
+    }
+  ]
+}

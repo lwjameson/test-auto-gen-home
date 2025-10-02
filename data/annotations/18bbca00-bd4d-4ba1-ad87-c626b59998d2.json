@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1574.91,
+      "end_time": 1579.039,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  She abuses the husband. The husband abuses her back. They both chime in and"
+        }
+      ],
+      "tags": [],
+      "uuid": "4db05a1f-d8a3-42cd-a8bf-68ec5ca8ef76"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4654.42,
+      "end_time": 4658.51,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  what kind of work feels urgent to me in that time, which is why I"
+        }
+      ],
+      "tags": [],
+      "uuid": "2cd6c660-5afc-4936-ba23-8b4890fc4a4b"
+    }
+  ]
+}

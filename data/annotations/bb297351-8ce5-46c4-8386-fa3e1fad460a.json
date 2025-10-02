@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 488.519,
+      "end_time": 492.639,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  new citizens to sleep. We clothe them with skin and"
+        }
+      ],
+      "tags": [],
+      "uuid": "246e2ef2-ac22-451f-b597-0afd328f7703"
+    }
+  ]
+}

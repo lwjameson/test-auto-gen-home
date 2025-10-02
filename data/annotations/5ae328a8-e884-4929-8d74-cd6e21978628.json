@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2348.8,
+      "end_time": 2352.809,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  is worthy of conversation. I don't think"
+        }
+      ],
+      "tags": [],
+      "uuid": "813d0ca1-dd73-4f6d-aad6-47917f840f61"
+    }
+  ]
+}

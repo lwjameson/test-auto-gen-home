@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2978,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Black as the night sky, we offer them the stars to know that we were once here. And how beautiful we were. How excellent, how brave. We were once here. And beyond our magic was a right to ease, to abundance. To a life beyond strength and survival. That our rest and refuge was worthy of celebration too."
+        }
+      ],
+      "tags": [],
+      "uuid": "428ad852-e869-4cbc-813d-72bd074fba34"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1105.65,
+      "end_time": 1110.299,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " Libreville, Gavon. And from Libreville, after three months, I'd been in Poland. A family, a foster family"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc646677-9749-44a3-9fd7-b9ba51f93976"
+    }
+  ]
+}

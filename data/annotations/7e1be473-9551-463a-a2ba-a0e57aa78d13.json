@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1846.829,
+      "end_time": 1851.029,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  and across the world. And just migration patterns of women"
+        }
+      ],
+      "tags": [],
+      "uuid": "48093f3e-bb09-4e08-b429-de073d92d76a"
+    }
+  ]
+}

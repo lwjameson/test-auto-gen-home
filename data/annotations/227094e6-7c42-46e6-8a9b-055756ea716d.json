@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2086,
+      "end_time": 2098.469,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  The girls had disappeared for three weeks before we knew their names. Then we spoke them. Two hundred and seventy-six in Chibok, but thousands more, missing and murdered across the country, answered."
+        }
+      ],
+      "tags": [],
+      "uuid": "98f8d3f2-5c6b-4a61-afc4-57df4f9e14e4"
+    }
+  ]
+}

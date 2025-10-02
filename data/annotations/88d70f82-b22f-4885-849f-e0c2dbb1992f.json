@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3747.67,
+      "end_time": 3752.59,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  So, the question for both of you. The climate crisis"
+        }
+      ],
+      "tags": [],
+      "uuid": "da77b983-5fe9-4787-bd77-4dc4fc714b6b"
+    }
+  ]
+}

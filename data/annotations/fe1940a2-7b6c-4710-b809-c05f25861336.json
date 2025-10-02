@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 734.909,
+      "end_time": 740.33,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Or is it some more humble lay,"
+        }
+      ],
+      "tags": [],
+      "uuid": "cba77f0a-64f9-413c-9d9d-9fed09be96ab"
+    }
+  ]
+}

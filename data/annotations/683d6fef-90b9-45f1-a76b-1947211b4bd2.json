@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1627.71,
+      "end_time": 1636.65,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  okay, we praise women and all. But women are also the cause of our problems. They could be accused of misogyny!"
+        }
+      ],
+      "tags": [],
+      "uuid": "f80bb6f9-8f4a-46f2-bb1c-8fcb7ac3135d"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1236.279,
+      "end_time": 1240.97,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " Stop there, or gently pass! Stop there, or"
+        }
+      ],
+      "tags": [],
+      "uuid": "e317ceae-0993-4819-bb93-ba0033853248"
+    }
+  ]
+}

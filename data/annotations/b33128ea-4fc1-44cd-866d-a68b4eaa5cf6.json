@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3545.69,
+      "end_time": 3549.82,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Or rather now you so much focused on joy, tenderness,"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5b44da7-f0c7-45e6-8491-21eabd110796"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3308,
+      "end_time": 3337.079,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Ifeoma. Like I mentioned earlier I I like the way you touch on margin. What I call marginal narratives. And these narratives of people who female inmates whose condition certainly would be much worse than their male counterparts experience because I..."
+        }
+      ],
+      "tags": [],
+      "uuid": "fe9b909f-d524-4e25-94d3-d3652fc7fada"
+    }
+  ]
+}

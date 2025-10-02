@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1792.64,
+      "end_time": 1798.24,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  His voice becomes flirty. You! You! A woman like"
+        }
+      ],
+      "tags": [],
+      "uuid": "da541768-4210-40d3-8211-5dda9422f0a9"
+    }
+  ]
+}

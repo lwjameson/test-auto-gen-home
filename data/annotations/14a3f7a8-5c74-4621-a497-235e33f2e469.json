@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2220.44,
+      "end_time": 2224.619,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Waiting for Maria. And I really like that novel because"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a827ea4-8921-4fa0-9008-0914464a7c50"
+    }
+  ]
+}

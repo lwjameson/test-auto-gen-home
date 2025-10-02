@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1939.48,
+      "end_time": 1944.119,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " scribbled on their clothes. For weeks, the smuggler's telephones on the other side,"
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa6030a-5ff6-451a-b19c-5a1fc389b382"
+    }
+  ]
+}

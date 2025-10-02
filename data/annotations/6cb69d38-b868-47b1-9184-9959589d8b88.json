@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1470.48,
+      "end_time": 1474.94,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So many influences, you know, on me. Because"
+        }
+      ],
+      "tags": [],
+      "uuid": "8834a230-a74d-42f9-9dbc-b1a8bb2d271f"
+    }
+  ]
+}

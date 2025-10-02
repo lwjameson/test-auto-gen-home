@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3445.32,
+      "end_time": 3451.23,
+      "annotation": [
+        {
+          "text": " Audience 1:",
+          "bold": true
+        },
+        {
+          "text": "  But I want to. I I have to read your book. But I'm referring this to this question to Ifeoma, currently."
+        }
+      ],
+      "tags": [],
+      "uuid": "36eb97e2-f2b8-463f-8707-30352c33f62a"
+    }
+  ]
+}

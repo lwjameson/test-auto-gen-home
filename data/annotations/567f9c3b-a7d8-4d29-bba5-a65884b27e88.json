@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4165.359,
+      "end_time": 4169.46,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  and afropop, whether its Wizkid, Burna Boy. So, there's, there really has"
+        }
+      ],
+      "tags": [],
+      "uuid": "96947ed3-15b9-4d67-b727-2e0a4e36c8ec"
+    }
+  ]
+}

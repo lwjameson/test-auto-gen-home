@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 5109.68,
+      "end_time": 5113.899,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Warsan Shire, um Teaching My Mother How to Give Birth. And in"
+        }
+      ],
+      "tags": [],
+      "uuid": "07846978-1ace-4fb0-b45e-b51c3f1bf114"
+    }
+  ]
+}

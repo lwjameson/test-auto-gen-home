@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 441.42,
+      "end_time": 456.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you, and I just wanted to say that it's an honor to share the stage with, with you. It's a rare treat to have three Nigerian writers in the same space, in another country, in another continent, and thank you to the U of A and SpokenWeb for making this possible."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e813da1-faf3-483f-ae10-e9936b12abf5"
+    }
+  ]
+}

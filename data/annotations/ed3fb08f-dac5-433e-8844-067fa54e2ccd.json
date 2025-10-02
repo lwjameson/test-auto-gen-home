@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2410.849,
+      "end_time": 2430,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  It is why it even in a collection like This is How We Dissapear, where I'm talking predominantly about the disappearance of the Chibok girls, I'm also swinging that that pendulum back to the idea of the power and magical nature of womanhood. And the ways we reinvent ourselves to survive, to move beyond."
+        }
+      ],
+      "tags": [],
+      "uuid": "f836e46d-3aee-4237-9e40-7a6766d37cae"
+    }
+  ]
+}

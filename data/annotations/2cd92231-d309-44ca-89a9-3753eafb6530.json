@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2634.179,
+      "end_time": 2639.76,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  to them. So, many schools are being closed down in Nigeria now because"
+        }
+      ],
+      "tags": [],
+      "uuid": "66d80fa0-4028-40b6-9f37-75c4fa0cac41"
+    }
+  ]
+}

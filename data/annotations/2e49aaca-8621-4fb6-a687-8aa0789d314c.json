@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4849.92,
+      "end_time": 4854.489,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  government can. And I think the solution, one of the soutions."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e0c30d8-2aa7-443b-b990-53c79ce665a0"
+    }
+  ]
+}

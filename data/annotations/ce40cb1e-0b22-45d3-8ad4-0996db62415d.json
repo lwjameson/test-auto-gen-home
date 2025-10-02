@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1136,
+      "end_time": 1152.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And then I'm transported into Ireland. And I think they put me in primary four, or so, in five. And then, the teacher there is teaching us poems. I'd never come across any poems. So, this was one of the poems I came across in my life."
+        }
+      ],
+      "tags": [],
+      "uuid": "3aaa85ac-78a1-4b0b-a694-1bd83bc9980c"
+    }
+  ]
+}

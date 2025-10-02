@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 581,
+      "end_time": 624,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Uche. Thank you Titi Sonuga for this collaboration together. As I usually do I like to thank the University of Alberta Department of English and Film Studies for the opportunity. Having me as your writer-in-residence, enabling me to meet the Edmonton... Let's me focus on on writing. Forget the distractions of daily living. So, I'm very grateful for the Department of English and Film Studies of the University of Alberta."
+        }
+      ],
+      "tags": [],
+      "uuid": "94513eec-dd8f-4e81-b0ac-41d0df274dd6"
+    }
+  ]
+}

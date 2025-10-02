@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 956.45,
+      "end_time": 960.659,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " is still worthy of being elevated"
+        }
+      ],
+      "tags": [],
+      "uuid": "e938f7c1-1b94-4474-9e65-dc9cc317e0d7"
+    }
+  ]
+}

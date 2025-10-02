@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3532.94,
+      "end_time": 3537.079,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  she also wants to share just a sneak peek into what you're"
+        }
+      ],
+      "tags": [],
+      "uuid": "866c45c5-a061-4456-93e2-b8dcc1d91a8a"
+    }
+  ]
+}

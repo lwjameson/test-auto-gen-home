@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2542.539,
+      "end_time": 2578,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Many artists, many writers, many others have been locked up. Many journalists, many have been killed because of what they write. Because of what they they... Chinua Achebe was in prison. Wole Soyinka himself. So many have been. Have lost their lives because of the pen. What they wrote. Because they are speaking to somebody and someone is listening. And so we hope our government will listen. Will read this book, these stories, and see what needs to be done. And do it. And change our society. For the better."
+        }
+      ],
+      "tags": [],
+      "uuid": "e400fe71-4cf6-4e1a-962a-a7a94e400ebf"
+    }
+  ]
+}

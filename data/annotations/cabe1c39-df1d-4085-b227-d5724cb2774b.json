@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 817.59,
+      "end_time": 821.629,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " Intonations of Immortality, those were two poems"
+        }
+      ],
+      "tags": [],
+      "uuid": "204f7718-ab69-4b84-acdd-26a9c44118a1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2424.59,
+      "end_time": 2429.039,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  And the ways we reinvent ourselves to survive,"
+        }
+      ],
+      "tags": [],
+      "uuid": "138267b0-d398-4dd5-b4a1-f5d315a3b0d9"
+    }
+  ]
+}

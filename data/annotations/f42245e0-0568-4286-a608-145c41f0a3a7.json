@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3846.5,
+      "end_time": 3851.13,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  heating and all. Is the drying up of the..."
+        }
+      ],
+      "tags": [],
+      "uuid": "e2c812d9-e4e1-4cac-8ec1-e9c101fcbd71"
+    }
+  ]
+}

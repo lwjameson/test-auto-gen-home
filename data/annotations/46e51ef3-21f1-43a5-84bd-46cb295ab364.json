@@ -1,0 +1,18 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2500,
+      "end_time": 2890,
+      "annotation": [
+        {
+          "text": "Question from the Host: How can we get literature to incite more conversation and awareness about the commodification of women?"
+        }
+      ],
+      "tags": [],
+      "uuid": "952d4f22-f0d2-464f-8b0b-62ba3850d64e"
+    }
+  ]
+}

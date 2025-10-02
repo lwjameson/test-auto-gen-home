@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1284.42,
+      "end_time": 1288.46,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " women in my writings. They are there. But the"
+        }
+      ],
+      "tags": [],
+      "uuid": "82e207eb-08a3-45f9-9134-416e811f868c"
+    }
+  ]
+}

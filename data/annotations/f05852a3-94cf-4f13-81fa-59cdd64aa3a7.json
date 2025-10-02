@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3827.57,
+      "end_time": 3833.55,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  there's bound to be conflict. So, I've written some poems, you know to"
+        }
+      ],
+      "tags": [],
+      "uuid": "367f202d-e062-4f20-baa1-02513b9c6161"
+    }
+  ]
+}

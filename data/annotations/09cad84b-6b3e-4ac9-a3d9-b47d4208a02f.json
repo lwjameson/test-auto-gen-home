@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1092.519,
+      "end_time": 1096.93,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  As I said as I've said before, I was a young refugee"
+        }
+      ],
+      "tags": [],
+      "uuid": "f30d5ea0-a17d-4827-8726-40308e0ad90e"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2526.96,
+      "end_time": 2542.539,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But I don't think it's just to write it and keep it there. We we are calling for action. Calling for a change. It's more than just writing, capturing it and keeping it for... no."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e26becf-fc43-4932-96e6-6cfd4bcbeae4"
+    }
+  ]
+}

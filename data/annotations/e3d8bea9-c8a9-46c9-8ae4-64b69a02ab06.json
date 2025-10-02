@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3944.3,
+      "end_time": 3948.429,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, it effects everybody, climate change. Whether in Europe, in"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6b2f100-e02d-440d-98b1-4672f9df1cc3"
+    }
+  ]
+}

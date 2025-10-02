@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3394.53,
+      "end_time": 3398.61,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  you questions. And so I'll open up the space for"
+        }
+      ],
+      "tags": [],
+      "uuid": "36962f0d-d42e-4c0a-8890-c3e9b35ce67a"
+    }
+  ]
+}

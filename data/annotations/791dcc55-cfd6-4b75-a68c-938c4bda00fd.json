@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1118.7,
+      "end_time": 1123.329,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " went to school. Back in Biafra then. Back in Nigeria. We are"
+        }
+      ],
+      "tags": [],
+      "uuid": "b5b7a945-f630-4dad-8633-356c9910843d"
+    }
+  ]
+}

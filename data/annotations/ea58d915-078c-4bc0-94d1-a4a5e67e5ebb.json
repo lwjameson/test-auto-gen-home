@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 561.19,
+      "end_time": 565.45,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  sky and the ground? Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "09da815a-ab96-4a10-b3c4-4fb4ed889fbc"
+    }
+  ]
+}

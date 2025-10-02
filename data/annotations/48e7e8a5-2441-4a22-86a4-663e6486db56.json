@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1866.019,
+      "end_time": 1870.579,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " They converted to Islam, married off to the fighters, Abubakar Shekau said."
+        }
+      ],
+      "tags": [],
+      "uuid": "6bead817-f720-43f8-bb67-bc12a98e1ae1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 492.639,
+      "end_time": 496.819,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  stamp their passports with milk. We teach the new"
+        }
+      ],
+      "tags": [],
+      "uuid": "1bcb90bc-b49f-4a52-8be2-e6dce8fe8ba7"
+    }
+  ]
+}

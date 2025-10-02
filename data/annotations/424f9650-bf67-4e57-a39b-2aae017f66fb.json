@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4692.85,
+      "end_time": 4696.869,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  out loud. And allow that work to exist in many different forms. And"
+        }
+      ],
+      "tags": [],
+      "uuid": "e83b68ae-0f8d-46e0-996e-2148043278ad"
+    }
+  ]
+}

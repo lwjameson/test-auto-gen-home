@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3917.829,
+      "end_time": 3922.519,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But most cannot dichotomize the effects of the climate change between here and there."
+        }
+      ],
+      "tags": [],
+      "uuid": "4612c4c1-b804-48db-986d-c3c81291c37a"
+    }
+  ]
+}

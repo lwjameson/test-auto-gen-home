@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3092.05,
+      "end_time": 3096.269,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  didn't know the status of their their cases."
+        }
+      ],
+      "tags": [],
+      "uuid": "406a5767-ee8d-4cd1-ba83-b3ab47cd0e2f"
+    }
+  ]
+}

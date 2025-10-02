@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4931.06,
+      "end_time": 4935.239,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  I thought it stranger than fiction."
+        }
+      ],
+      "tags": [],
+      "uuid": "2c37899b-8186-4f59-ae41-c0e7b6457c88"
+    }
+  ]
+}

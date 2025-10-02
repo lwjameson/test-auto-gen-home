@@ -1,0 +1,18 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1078,
+      "end_time": 1549,
+      "annotation": [
+        {
+          "text": "Ifeoma Chinwuba on literary influences"
+        }
+      ],
+      "tags": [],
+      "uuid": "6b912c85-d63c-40e8-a1d3-a2a1c3e823bf"
+    }
+  ]
+}

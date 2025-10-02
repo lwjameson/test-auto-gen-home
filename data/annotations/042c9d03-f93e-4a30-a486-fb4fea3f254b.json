@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 1040,
+      "end_time": 1061.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " And I mean I love music just as much as I love poetry. I listen to the poetry in music. I love Lauryn Hill and Erykah Badu. And so, when I'm sitting down to write, I'm not just drawing from influences of poets and writers, I'm drawing from the world that I live in. And and the the poetry that I hear in those things that aren't necessarily poetry on the surface. So that's that's the work that moves me."
+        }
+      ],
+      "tags": [],
+      "uuid": "82b3488d-7e7d-4e6d-82e3-fe750a2c75d7"
+    }
+  ]
+}

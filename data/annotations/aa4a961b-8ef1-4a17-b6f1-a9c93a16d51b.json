@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3695.809,
+      "end_time": 3700.38,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  a powerful force. And so I applaud and celebrate anyone who is"
+        }
+      ],
+      "tags": [],
+      "uuid": "a33182e9-cb47-4953-b0cc-75ed565ec94c"
+    }
+  ]
+}

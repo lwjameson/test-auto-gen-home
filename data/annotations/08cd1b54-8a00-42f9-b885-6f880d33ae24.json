@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2181.579,
+      "end_time": 2185.659,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  both of your works deal with the silencing of"
+        }
+      ],
+      "tags": [],
+      "uuid": "74dbc9bc-23dd-4c16-992d-37cf8da71e4e"
+    }
+  ]
+}

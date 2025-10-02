@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 140.9,
+      "end_time": 144.939,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  the research network. To learn more about SpokenWeb you can visit"
+        }
+      ],
+      "tags": [],
+      "uuid": "e578bcb2-ea8e-4433-b9a0-367fcb7e8cb8"
+    }
+  ]
+}

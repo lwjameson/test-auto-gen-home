@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2630.15,
+      "end_time": 2655.55,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Which means they don't care. Which means the the government can't catch them. Can't do anything to them. So, many schools are being closed down in Nigeria now because they don't want this. They don't want kidnapping and ransom and all that. Many schools. Many people are are are what we call... street children, urchins. They are not getting educated. In the millions."
+        }
+      ],
+      "tags": [],
+      "uuid": "1a0bdfca-f925-487d-bb82-06c251360c00"
+    }
+  ]
+}

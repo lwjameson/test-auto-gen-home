@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2433.239,
+      "end_time": 2437.409,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  the world is just by telling through true and authentic stories."
+        }
+      ],
+      "tags": [],
+      "uuid": "83e42425-e844-456b-afde-00c03b27c7cc"
+    }
+  ]
+}

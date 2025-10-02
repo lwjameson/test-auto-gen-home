@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 257.449,
+      "end_time": 261.769,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " and Film Studies at the University of Alberta. She's an accomplished"
+        }
+      ],
+      "tags": [],
+      "uuid": "6149b79e-1b7d-4a5b-bf63-c650c3fe9d1f"
+    }
+  ]
+}

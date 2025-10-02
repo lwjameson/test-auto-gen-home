@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 147,
+      "end_time": 173,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  I'd like now to introduce Dr. Uche Umezurike, Provost's Postdoctoral Fellow at the University of Calgary and our host for today's event. Uche is a dear friend and a cherished colleague who many of you know is both an award-winning scholar, amongst his many achievements he was awarded the 2021 Nigeria prize for literary criticism, and as a celebrated author of poetry, fiction and children's books."
+        }
+      ],
+      "tags": [],
+      "uuid": "6e0c458e-5fea-4166-b7bc-596fb28878f8"
+    }
+  ]
+}

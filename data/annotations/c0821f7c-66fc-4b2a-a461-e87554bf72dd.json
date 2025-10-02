@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4378.609,
+      "end_time": 4383.27,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But they've always be there. Another thing that I I"
+        }
+      ],
+      "tags": [],
+      "uuid": "67e06a19-6503-4c4b-b626-d55fc01e160a"
+    }
+  ]
+}

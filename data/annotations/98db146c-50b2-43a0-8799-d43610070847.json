@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 4198.56,
+      "end_time": 4203.569,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  that we are connected now there's also a very stark line of"
+        }
+      ],
+      "tags": [],
+      "uuid": "5517c7c2-a321-4708-ab23-76e8fbdbba36"
+    }
+  ]
+}

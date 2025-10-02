@@ -1,0 +1,22 @@
+{
+  "event_id": "d4a88bf8-5ea4-421e-a019-d593dd11d985",
+  "source_id": "00cb110a-ba04-410b-a1e6-6870fc6da9e1",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 3709.5,
+      "end_time": 3735.559,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um and so yeah I guess that's that's that's the way that I think about my work and and conversations around art. I'm I'm hopeful that in a time beyond, like when I'm no longer here, when people look over the work that I created it gives them a sense of that intergenerational passing down. A sense of that people have survived something before this and will continue to survive in the future."
+        }
+      ],
+      "tags": [],
+      "uuid": "74d30bf5-ad7e-4e96-8810-b79dcc8630b5"
+    }
+  ]
+}
