@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "574ce605-bb28-4e67-8027-5201444e9276": {
+      "label": "AV File 1",
+      "file_url": "https://ia801504.us.archive.org/4/items/bernadette-mayer-zoom-reading/Bernadette%20mayer%20zoom%20reading.mp4",
+      "duration": 4833
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-07T18:04:04.625Z",
+  "created_by": "lwjameson",
+  "label": "Imported Event 1",
+  "updated_at": "2025-10-07T18:04:04.625Z",
+  "updated_by": "lwjameson",
+  "rights_statement": ""
+}
