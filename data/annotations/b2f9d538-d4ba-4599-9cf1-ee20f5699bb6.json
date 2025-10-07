@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "sk",
+  "annotations": [
+    {
+      "uuid": "5baa6802-378f-484a-92b7-4f5f52484db6",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Podpora záznam Donald Trump a brániť plánovaného rodičovstva vláda-financovaný "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4b3ac7f0-4e20-42a4-9317-3f3cd3cb475d",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zdravotnej starostlivosti nechať ilegálne cudzinci brať svoju prácu "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f353278c-2d5f-4827-82ad-acfb7ab411b9",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kto hľadá pre nás na vodičov nákladných automobilov a oceliari v "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e187447-9dac-4442-a227-5938c5ec6c7c",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanici videli ich mzdy nerastú, zatiaľ čo životné náklady sa zdvihne as "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1fba4bb5-d0cb-4054-9587-da3dd0c4b03e",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezident "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8aaa6485-fe54-428a-b07d-c9a0f73fda9b",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare na pullbacks regulátorom a odovzdáme jednoduchú rovnú daň a "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "09a2afd7-5ec4-49d1-88c3-db6700cf7cc5",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " zrušiť IRS v skutočnosti deje budeme vidieť príležitosť Ted Cruz pre "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9a624da9-5586-4efc-989b-069b6136b14b",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Naša práca Som Ted Cruz a túto správu schvaľujem "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

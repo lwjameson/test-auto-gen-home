@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "zh-Hans",
+  "annotations": [
+    {
+      "uuid": "cd6a75d9-3414-4dbb-839e-908b44b82aab",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "唐纳德·特朗普的战绩支持和捍卫计划生育的政府资助"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "011259c7-e327-4bf4-beb1-dd61355fb42a",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "保健让非法居留的外国人把我们的工作"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "438dfd78-6636-4eec-be9d-96af7789e157",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "谁在寻找出我们的卡车司机和钢铁工人"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15aa5b0a-9bed-42d0-9223-40b144644731",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "力学所看到的他们的工资没有增长，而生活成本上升的"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3310b1c6-1293-4781-944f-bb3c87e90cb7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "主席"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c3eab962-197c-4871-9b78-89ecc67d694c",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "奥巴马医改对回调的监管机构，我们将通过一个简单的平税和"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "66d8c8fa-141d-4fb7-ad1e-0a1259f5da47",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "取消国税局究竟会发生什么，我们要去看到了机会泰德·克鲁斯为"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e2cb6997-979f-4ffa-99d7-2f2213ba0bca",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "我们的工作，我特德·克鲁兹和我赞同这个消息"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

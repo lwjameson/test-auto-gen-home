@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "az",
+  "annotations": [
+    {
+      "uuid": "2a745cb4-ee58-4c34-a456-a7d71405d0da",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekord dəstək və Planlaşdırılan analıq hökuməti tərəfindən maliyyələşdirilən müdafiə "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cb6fa439-ca5b-4a57-ad66-bbbe700ec55d",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " səhiyyə qanunsuz əcnəbilər bizim iş götürək "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db619d7f-b420-420c-ae43-3c637867b106",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kim bizim üçün yük maşını sürücü və Metal İşçiləri həyata axtarır "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "68b48e79-d795-45b6-ad39-e34391051598",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " yaşayış minimumu kimi gedir isə mexanika inkişaf onların əmək haqqı gördük "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1f886c62-11e7-4f8a-87eb-1079a0cbe0e4",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " prezident "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "98cf329c-fcdd-4f47-80dd-5f3e847ad1db",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks tənzimləyiciləri on Obamacare və biz bir sadə düz vergi keçəcək və "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f147a5e2-7d4d-4c6c-8fcd-301e642fa3c8",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS həqiqətən çox We imkanı Ted Cruz üçün mý etdiyiniz gedir ləğv "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62b23809-a6c9-4057-bd08-3404f5df8632",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Bizim iş Mən Ted Cruz Ben və mən bu mesajı təsdiq "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "ha",
+  "annotations": [
+    {
+      "uuid": "8905bc3f-b2f6-4933-88b5-97ec88ef64c0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald trump ta rikodin goyon baya da kuma kare shirya iyaye ta gwamnati a] en "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "148fc634-fe27-41a7-b678-0a8d791c257d",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kiwon lafiya bari ba bisa doka ba baki yarda mu jobs "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "59cd7022-e8b0-4d15-a47e-5379dd1d2769",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " wanda ke neman fitar mana truck direbobi da steelworkers a "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1afbffdb-d824-41c9-8d26-f454fad71482",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " makanikai gani su ijãrõrinsu ba girma yayin da kudin da rai ke sama kamar yadda "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f3ac402c-4b46-4c32-a345-596f42ffe31d",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " shugaban "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ff80709a-399a-465a-a3c2-160a3a4d7667",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare a pullbacks da gwamnoni da za mu wuce mai sauki lebur haraji da kuma "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0308b951-1ab0-43e2-b617-011862b79ada",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kau da IRS gaske faruwa muna za ganin wata dama Ted Cruz ga "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1faba1df-1225-40d7-9782-01292dc428ed",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mu jobs Ina Ted Cruz da kuma na amince da wannan sakon "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

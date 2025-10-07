@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "sv",
+  "annotations": [
+    {
+      "uuid": "5db09a2b-6756-4f52-9120-04a98edd3168",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump stöd rekord och försvarar Planned Parent regering finansierade "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a13af1ea-a6af-4139-b698-722141a2844e",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hälsovård låt illegala invandrare tar våra jobb "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ae8e88cf-10ce-481e-ad01-1fab1f846791",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " som söker för oss de lastbilschaufförer och stålarbetare i "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4599fb87-7d06-41e7-8299-69dd85e63e46",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanik har sett deras löner inte växa medan levnadskostnaderna går upp som "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "516e6737-0f47-4b4f-b42f-7cd52ec46ad3",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c64d123a-0ac4-4ce6-83cd-975e96cc5d1b",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare på pullbacks tillsynsmyndigheterna och vi kommer att passera en enkel platt skatt och "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cff8e786-8577-4ea8-b557-16ddcd765bf9",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " avskaffa IRS verkligen händer vi ska se en möjlighet Ted Cruz för "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "570ce1de-b436-48c3-98ed-790a3fd86289",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " våra jobb Jag är Ted Cruz och jag godkänner detta meddelande "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

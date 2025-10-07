@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "fi",
+  "annotations": [
+    {
+      "uuid": "53c6b0d8-9487-481c-a75d-1cca196c4411",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump ennätys tukea ja puolustaa Planned Parenthood hallituksen rahoittama "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8ecf4d50-3bc7-40cc-a348-441ffa971a29",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Terveydenhuollon anna laittomasti maahan kestää työpaikkamme "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a7a4442-7c21-4fd8-b729-aaa594e05ebc",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kuka huolehtinut meille kuorma-auton kuljettajien ja terästeollisuuden että "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1db4a50b-f425-4794-be90-1dc06adcab61",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekaniikka ovat nähneet palkkoja ei kasva, kun elinkustannukset menee jopa niin "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f33d8e32-ebb1-4bd5-b90f-acaf9c3f2bf7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " presidentti "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f676ef8f-7996-4652-8fda-84d3953802fb",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks sääntelyviranomaisten ja me siirtää yksinkertaisen tasavero ja "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "599f66ca-cf39-40e3-bd80-5e8b5712057a",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " lakkauttaa IRS todella tapahtuu aiomme nähdä mahdollisuutena Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "20718ae4-921c-4f63-a597-b2e2ec86ffdd",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " työmme Olen Ted Cruz ja minä hyväksyä tämän viestin "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

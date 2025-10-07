@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "bn",
+  "annotations": [
+    {
+      "uuid": "86ad9262-249e-4b4b-9656-ec3c4e9b25cd",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ডোনাল্ড ট্রাম্প রেকর্ড সমর্থন এবং আত্মরক্ষা পরিকল্পিত পেরেন্টহুড সরকারের অর্থায়নে পরিচালিত "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "756e24b0-b813-4e8a-a1c2-3aef4dd8dd99",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " স্বাস্থ্যসেবা অবৈধ aliens আমাদের কাজ নিয়ে যাক "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "77fd4b6a-7b6c-4485-b4a6-e83ab34d0564",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " যারা আমাদের জন্য এ ট্রাকচালক এবং steelworkers বাইরে তাকিয়ে আছে "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "83a22ce6-cecf-4dba-ba11-2fb60c23d888",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " বলবিজ্ঞান হত্তয়া না তাদের মজুরি দেখেছি যখন জীবনযাত্রার ব্যয় যেমন বেড়ে যায় "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8172cf9d-00b8-4554-abff-3b4b3119c47b",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " রাষ্ট্রপতি "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c4a75111-c0b0-4a0d-9918-ac252133632f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare উপর pullbacks নিয়ন্ত্রকদের এবং আমরা একটি সহজ ফ্ল্যাট ট্যাক্স পাস হবে এবং "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2a08a15e-9c3b-4ecf-9911-3fd4eea8e662",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " নির্দেশানুযায়ী IRS সত্যিই একটি সুযোগ টেড ক্রুজ জন্য যাচ্ছিলাম আমরা চলছে বিলোপ দেখুন "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9fde1c59-1025-4251-ba2c-3f7469135271",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " আমাদের কাজ আমি টেড ক্রুজ এবং আমি এই বার্তাটি অনুমোদন "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

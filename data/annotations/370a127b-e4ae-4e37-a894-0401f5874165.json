@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "tr",
+  "annotations": [
+    {
+      "uuid": "1a0a353a-50e3-42ef-9002-753684d7d2c8",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump'ın rekor destek ve Planlı Ebeveynlik hükümeti tarafından finanse edilen savunmak "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e8624fdc-2d95-4edb-a353-51145a962318",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sağlık yasadışı yabancılar bizim işlerimizi atalım "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d08fcc28-5797-444e-80cc-26347a6bb093",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " bizler için kamyon sürücüleri ve kombine makas dışarı bakıyor "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cf253095-dc9c-4bfb-b11f-8d6db4742587",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " hayat pahalılığı olarak yukarı giderken mekaniği büyümek değil kendi ücret gördük "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15275ea1-1fcf-4168-ba44-903e09aad801",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Devlet Başkanı "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6a249e00-2d78-4b7f-98b3-829185ff275f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks düzenleyiciler üzerinde Obamacare ve basit bir düz vergi geçecek ve "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c74196d3-85c2-4660-ae34-3e1e1ab3bde3",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " IRS gerçekten görmek biz bir fırsat Ted Cruz için gideceğiz gidiş ortadan kaldırmak "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "438031dd-b377-4db6-92cd-88d8de229844",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Bizim işler Ted Cruz ve ben bu mesajı onaylamak "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

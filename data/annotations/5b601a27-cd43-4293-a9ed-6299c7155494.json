@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "yo",
+  "annotations": [
+    {
+      "uuid": "78cff56d-75e4-4ac1-b360-6f9bc6cc6a5b",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald ipè ká gba support ki o si dabobo ngbero Parenthood ká ijoba-agbateru "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "087d73f3-aa3a-4789-9c7f-3bbd1bf1466c",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " itoju ilera jẹ ki arufin awọn ajeji ya wa ise "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7eed12d9-30ee-449e-b9b6-1aa14215a4ab",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ti o ti n nwa jade fun wa awọn ikoledanu awakọ ati awọn steelworkers ninu awọn "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f27d1ec3-0df6-4a40-9484-4eb39cc827d2",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " isiseero ti ri wọn oya ko dagba nigba ti iye owo ti awọn alãye lọ soke bi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e0fedf00-8ed2-44bb-baf7-f3f17fd9cb32",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Aare "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "05ba9448-1743-436b-90f7-95731df09025",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare on pullbacks awọn olutọsọna ati awọn ti a yoo ṣe kan awọn alapin-ori ati "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "155b04f9-28f1-413d-bd1d-3c73a4204b46",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " parun, awọn IRS gan ti lọ lori ti a ba maa ri ohun anfani Ted Cruz fun "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d6cf54b8-8f3a-4fe7-bb65-636e80f1e440",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " wa ise Mo wa Ted Cruz ati ki o Mo fi ọwọ si yi ifiranṣẹ "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "is",
+  "annotations": [
+    {
+      "uuid": "28dc63dc-2c94-4f40-bc77-9adcca677ecf",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " met stuðning Donald Trump og verja Planned Parenthood er ríkisstjórn styrkt "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bfd03e52-723a-4acc-b982-6a45ee76e7d3",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " heilbrigðisþjónustu láta ólöglegur útlendingur taka störf okkar "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10a71fd2-94e7-4acb-b481-2290b488df12",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " sem er að leita út fyrir okkur á vörubílstjórum og á Steelworkers í því "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40ceb36e-0f64-4888-adbe-d62b69a13716",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " aflfræði hafa séð laun þeirra ekki vaxið meðan framfærslukostnaður fer upp eins og "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "28d32498-6263-44f0-974c-8810b4cac0e7",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " forseti "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d5173129-913a-4dd8-ace2-4aa29686bc7f",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare á pullbacks eftirlitsaðila og við munum standast einfalt íbúð skatt og "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9a2384b9-ae1f-4fce-8117-e3c35fd05a69",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " afnema IRS raunverulega að gerast við ætlum að sjá tækifæri Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5afa9cf0-ea4a-46b4-a6d0-6cf155d1c4d3",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " störf okkar Ég Ted Cruz og ég samþykkja þessi skilaboð "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

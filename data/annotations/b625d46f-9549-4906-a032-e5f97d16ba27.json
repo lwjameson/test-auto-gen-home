@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "hu",
+  "annotations": [
+    {
+      "uuid": "553aed0b-f90c-49ab-8e7e-c8d2347b71a0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump rekordját támogatását és védelmét Családtervezési kormány által támogatott "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d0a76542-22c8-4f9e-a33c-920882ed409d",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " egészségügyi hagyja illegális idegenek eláll a munkahelyek "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4db0608e-87c2-4701-bea8-e495c84e1f98",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " aki keresi ki minket a kamionsofőrök és a steelworkers a "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3673419b-32ef-4c42-8b61-41016c50c417",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mechanika láttuk bérük nem fog növekedni, míg a megélhetési költségek megy fel "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4194f6a5-be80-4d78-aafe-2e2529cbd1c3",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " elnök "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10ca95c1-1f31-478e-aa3b-21c37c2e4301",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare a pullbacks a szabályozók és átadjuk egy egyszerű egykulcsos és "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bff48d64-69fb-4cb5-a88e-d8d203e31e65",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Fel kell számolni az IRS folyik valójában fogunk lát lehetőséget Ted Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3953b362-64cf-431f-a1c5-1d8fb0ea3211",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " a munkahelyek vagyok Ted Cruz és helyeslem ezt az üzenetet "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "sq",
+  "annotations": [
+    {
+      "uuid": "ee61523f-27f0-492c-8a28-3e5c26f58677",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mbështetja dhënat Donald Trump-së dhe për të mbrojtur të financuara nga Qeveria e Planned Parenthood-së "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc09ca38-c17e-4fde-aad1-e81ee41d900e",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kujdesit shëndetësor le të huaj të paligjshëm të marrë punën tonë "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7df4bc30-381f-4d75-8784-ba3aab788f4b",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " i cili është në kërkim për ne shoferët e kamionëve dhe punonjësit e çelikut në "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8d29e0b8-9288-4ee7-ab64-4e3477506583",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mekanika kanë parë pagat e tyre nuk rriten, ndërsa kostoja e jetesës shkon si "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40e198f3-fb90-42b9-83f5-cd8323d214fb",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " president "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ebeac922-ad4d-449f-88d3-dbce1e0fbf9a",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare në pullbacks rregullatorët dhe ne do të kalojë një taksë të sheshtë dhe të thjeshtë "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "02ec39f0-5bd1-405b-a4d0-04e349650355",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " shfuqizuar IRS ndodh në të vërtetë ne jemi gonna të shihni një mundësi Ted Cruz për "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6ada20ce-6ebf-4f06-9d17-87d841176380",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " punët tona Jam Ted Cruz dhe miratojë këtë mesazh "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

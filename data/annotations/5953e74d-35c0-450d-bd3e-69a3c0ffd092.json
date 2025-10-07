@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "lb",
+  "annotations": [
+    {
+      "uuid": "72de3825-22b0-4e86-97b6-4ffbcd1ce1be",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Donald Trump d'Rekord Ënnerstëtzung an verdeedegen Geplangte Parenthood d'Regierung-finanzéiert "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0b8bcffc-47e8-4302-a7dc-d882d3c57205",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Gesondheetsversuergung loosse illegal Vollbiergerrecht eisen Aarbechtsplazen huelen "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1beaa52a-d757-4e94-a979-917a8ddf68d3",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " déi d'Sich goen fir eis de Camion Automobilisten an der steelworkers an der "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d12882a3-f7dc-4caa-a854-551977130686",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Mechanik hunn hire Loun gesinn net wuessen iwwerdeems d'Käschte vun wunnen geet weider wéi "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1e7cd83c-ce6c-42f5-b727-68003d4eb95a",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " President "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "44849625-6188-447e-a2e9-443a2785434a",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare op pullbacks der Reglementatioun a mir wäerten en einfach flaach Steier Passe an "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4d59c410-7284-4462-9dbb-1fd19dec2673",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ofschafen der es lass mer gesŠit Geleegenheet Ted Cruz wierklech fir "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "790fdab7-08be-4061-9f69-03e31afa8ce2",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " eisen Aarbechtsplazen hun ech Ted Cruz an ech stëmmen deem Message "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

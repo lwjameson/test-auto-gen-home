@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "id",
+  "annotations": [
+    {
+      "uuid": "e91e1c1e-0e6c-4e15-8dd4-9fd20e9813d0",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " dukungan rekor Donald Trump dan membela Planned Parenthood ini didanai pemerintah "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d8018622-b0da-4df1-bb60-1c8b28d1386a",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " kesehatan membiarkan orang asing ilegal mengambil pekerjaan kami "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99b774e0-f941-4888-b58c-6f445cd433de",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " yang mencari keluar untuk kami pengemudi truk dan steelworkers di "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "46546aa9-f90c-4968-8bb5-8e5d3385bb5c",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " mekanik telah melihat upah mereka tidak tumbuh sedangkan biaya hidup naik sebagai "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b7d77840-e931-47be-8917-d67212d79a33",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Presiden "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "256026b5-c7b0-4299-80d8-005f66690434",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Obamacare pada kemunduran regulator dan kita akan melewati pajak tetap sederhana dan "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e13f26db-1ad5-48ec-9dc4-62a0113451ca",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Menghapuskan IRS benar-benar terjadi kita akan melihat kesempatan Ted Cruz untuk "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "438974ff-71b5-407d-80c4-3682eba62e49",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pekerjaan kita Aku Ted Cruz dan saya menyetujui pesan ini "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

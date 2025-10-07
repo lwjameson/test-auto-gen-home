@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "ta",
+  "annotations": [
+    {
+      "uuid": "aab4367d-18b0-49b0-baae-c56be886e8e5",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " டொனால்டு டிரம்ப் சாதனையை ஆதரவு மற்றும் பாதுகாக்க திட்டமிட்ட பேரன்ட்ஹூட் அரசாங்கம் நிதியுதவி "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a897633b-9e9d-4dbf-aec8-3d4853cdd8e8",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " சுகாதார சட்டவிரோத வெளிநாட்டினர் நம் வேலைகளை எடுத்து விடுங்கள் "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "88166c94-a63e-4818-9d06-962363d1950f",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " யார் சாரதிகள் மற்றும் எஃகுத் எங்களை வெளியே தேடும் "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "231fb487-7244-409d-934c-9f880fe99f2f",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " வாழ்க்கை செலவு என செல்லும் போது இயக்கவியல் தங்கள் ஊதியங்கள் வளர முடியாது பார்த்திருக்கிறேன் "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4992a2ff-9a74-48c7-8cbb-2791964eb5d5",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " தலைவர் "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "65623282-fb2f-431c-b42d-4dd736dd40ad",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " pullbacks கட்டுப்பாட்டாளர்கள் மீது ரேவதி மற்றும் நாம் ஒரு எளிய தட்டையான வரி கடக்கும் மற்றும் "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a1573046-b3f5-4dba-a889-43c148420d94",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ஐ.ஆர்.எஸ் உண்மையில் நாம் நடக்கிறது எடுப்பாய் ஒழிக்கும் பார்க்க ஒரு வாய்ப்பு டெட் குரூஸ் க்கான "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4e8b9401-a8cd-49b9-a8e7-8068b116ade5",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " எங்கள் வேலைகள் நான் டெட் குரூஸ் இருக்கிறேன் மற்றும் நான் இந்த செய்தியை அங்கீகரிக்க "
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

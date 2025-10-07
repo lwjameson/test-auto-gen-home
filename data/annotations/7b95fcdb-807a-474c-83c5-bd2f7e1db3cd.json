@@ -1,0 +1,135 @@
+{
+  "event_id": "7bb16911-579c-4142-9e92-d4c69ea897dc",
+  "source_id": "35786bfa-5382-4271-bd0b-e16e475b0bba",
+  "set": "zh-Hant",
+  "annotations": [
+    {
+      "uuid": "4e6296bf-9bde-4d31-9c3f-1a11a5931b5b",
+      "start_time": 0,
+      "end_time": 3.6390000000000002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "唐納德·特朗普的戰績支持和捍衛計劃生育的政府資助"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f1099ca1-1945-433b-be08-eb4a7fe3c95f",
+      "start_time": 3.6390000000000002,
+      "end_time": 6.639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "保健讓非法居留的外國人把我們的工作"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "97f2f38e-ff07-44e7-9092-a2d16fa53220",
+      "start_time": 7.23,
+      "end_time": 10.79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "誰在尋找出我們的卡車司機和鋼鐵工人"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a56a0649-a1a5-4c88-ab2b-852659d55424",
+      "start_time": 10.79,
+      "end_time": 14.86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "力學所看到的他們的工資沒有增長，而生活成本上升的"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "417d55de-cd60-4fb2-8bfc-fc00506fd1b9",
+      "start_time": 14.86,
+      "end_time": 16.15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "主席"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bc801083-b412-4f1f-9f38-e218f342afb7",
+      "start_time": 16.15,
+      "end_time": 21.57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "奧巴馬醫改對回調的監管機構，我們將通過一個簡單的平稅和"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0d8bb230-0544-418d-8330-8e155efe4b67",
+      "start_time": 21.57,
+      "end_time": 26.939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "取消國稅局究竟會發生什麼，我們要去看到了機會泰德·克魯斯為"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "586b248c-18f8-45db-bcd8-31d1722efdfa",
+      "start_time": 26.939,
+      "end_time": 29.689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "我們的工作，我特德·克魯茲和我贊同這個消息"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
