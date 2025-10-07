@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "616cc298-07fc-401d-8ee7-ba5167ef21e9": {
+      "label": "AV File 1",
+      "file_url": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/roy_kiyooka_i086-11-030.mp3",
+      "duration": 3702,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-07T19:14:23.186Z",
+  "created_by": "lwjameson",
+  "label": "Roy Kiyooka and Richard (Dick) Sommer at Sir George Williams University, The Poetry Series, 2 December 1966 (1)",
+  "updated_at": "2025-10-07T19:14:23.186Z",
+  "updated_by": "lwjameson",
+  "rights_statement": ""
+}
