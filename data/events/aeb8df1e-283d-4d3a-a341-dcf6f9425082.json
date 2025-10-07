@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "658f6147-a726-468a-a678-6d7ab49b4116": {
+      "label": "MPEG4",
+      "file_url": "https://archive.org/download/youtube-7w8F2Xi3vFw/34C3_-_International_Image_Interoperability_Framework_IIIF_Kulturinstitutionen_schaffen_interop-7w8F2Xi3vFw.mp4",
+      "duration": 1643.74
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-07T14:45:19.978Z",
+  "created_by": "lwjameson",
+  "item_type": "Audio",
+  "label": "34C3_-_International_Image_Interoperability_Framework_IIIF_Kulturinstitutionen_schaffen_interop-7w8F2Xi3vFw",
+  "updated_at": "2025-10-07T14:45:19.978Z",
+  "updated_by": "lwjameson",
+  "rights_statement": "https://creativecommons.org/licenses/by/3.0/"
+}
